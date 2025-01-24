@@ -1,0 +1,20 @@
+2024-12-17 11:47:54.204 - Info	
+Packing C:\Users\mdevaney\OneDrive\PCFPlayground\tinymce-basics-mo\obj\PowerAppsToolsTemp_kh\obj\Debug\Metadata to bin\Debug\PowerAppsToolsTemp_kh.zip
+
+2024-12-17 11:47:54.212 - Info	Processing Component: Entities
+2024-12-17 11:47:54.214 - Info	Processing Component: Roles
+2024-12-17 11:47:54.216 - Info	Processing Component: Workflows
+2024-12-17 11:47:54.216 - Info	Processing Component: FieldSecurityProfiles
+2024-12-17 11:47:54.217 - Info	Processing Component: Templates
+2024-12-17 11:47:54.217 - Info	Processing Component: EntityMaps
+2024-12-17 11:47:54.217 - Info	Processing Component: EntityRelationships
+2024-12-17 11:47:54.219 - Info	Processing Component: OrganizationSettings
+2024-12-17 11:47:54.220 - Info	Processing Component: optionsets
+2024-12-17 11:47:54.220 - Info	Processing Component: CustomControls
+2024-12-17 11:47:54.226 - Info	 - KimleyHorn.TinyMCEComponent
+2024-12-17 11:47:54.230 - Info	Processing Component: SolutionPluginAssemblies
+2024-12-17 11:47:54.231 - Info	Processing Component: EntityDataProviders
+2024-12-17 11:47:54.234 - Info	Processing Sharded Component Files
+2024-12-17 11:47:54.316 - Info	
+Unmanaged Pack complete.
+

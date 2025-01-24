@@ -1,0 +1,2 @@
+C:\Users\mdevaney\OneDrive\PCFPlayground\tinymce-basics-mo\obj\Debug\PCF.TinyMCE.pcfproj.AssemblyReference.cache
+C:\Users\mdevaney\OneDrive\PCFPlayground\tinymce-basics-mo\obj\Debug\PCF.TinyMCE.pcfproj.CoreCompileInputs.cache

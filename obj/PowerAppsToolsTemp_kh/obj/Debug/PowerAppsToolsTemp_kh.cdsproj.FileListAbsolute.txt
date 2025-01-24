@@ -1,0 +1,2 @@
+C:\Users\mdevaney\OneDrive\PCFPlayground\tinymce-basics-mo\obj\PowerAppsToolsTemp_kh\obj\Debug\PowerAppsToolsTemp_kh.cdsproj.AssemblyReference.cache
+C:\Users\mdevaney\OneDrive\PCFPlayground\tinymce-basics-mo\obj\PowerAppsToolsTemp_kh\obj\Debug\PowerAppsToolsTemp_kh.cdsproj.CoreCompileInputs.cache

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4mr2QoH7WjU=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\PCF.TinyMCE.pcfproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdevaney\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.38.3\\microsoft.powerapps.msbuild.pcf.1.38.3.nupkg.sha512"
+  ],
+  "logs": []
+}

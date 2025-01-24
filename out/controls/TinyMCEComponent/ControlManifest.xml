@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<manifest>
+  <control namespace="KimleyHorn" constructor="TinyMCEComponent" version="0.3.17" display-name-key="TinyMCEComponent" description-key="TinyMCEComponent description" control-type="standard" api-version="1.3.15">
+    <property name="htmlText" display-name-key="Text" description-key="Property_Desc_Key" of-type="Multiple" usage="bound" required="true"/>
+    <property name="editorHeight" display-name-key="Editor Height" description-key="Property_Editor_Height" of-type="SingleLine.Text" usage="input" required="false" default-value="100%"/>
+    <property name="fontFamily" display-name-key="Font Family" description-key="Property_Font_Family" of-type="SingleLine.Text" usage="input" required="true" default-value="Segoe UI"/>
+    <property name="fontSize" display-name-key="Font Size" description-key="Property_Font_Size" of-type="Whole.None" usage="input" required="true" default-value="12"/>
+    <property name="autoResize" display-name-key="Auto-Resize" description-key="Property_Auto_Resize" of-type="TwoOptions" usage="input" required="true" default-value="0"/>
+    <resources>
+      <code path="bundle.js" order="1"/>
+      <css path="skins/content/default/content.css" order="1"/>
+      <css path="skins/ui/oxide/content.min.css" order="1"/>
+      <css path="skins/ui/oxide/skin.min.css" order="1"/>
+    </resources>
+    <feature-usage/>
+    <built-by name="pac" version="1.37.4"/>
+  </control>
+</manifest>

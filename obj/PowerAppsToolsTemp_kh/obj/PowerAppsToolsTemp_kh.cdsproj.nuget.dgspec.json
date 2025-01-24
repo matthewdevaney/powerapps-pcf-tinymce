@@ -1,0 +1,101 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\PowerAppsToolsTemp_kh\\PowerAppsToolsTemp_kh.cdsproj": {}
+  },
+  "projects": {
+    "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\PowerAppsToolsTemp_kh\\PowerAppsToolsTemp_kh.cdsproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\PowerAppsToolsTemp_kh\\PowerAppsToolsTemp_kh.cdsproj",
+        "projectName": "PowerAppsToolsTemp_kh",
+        "projectPath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\PowerAppsToolsTemp_kh\\PowerAppsToolsTemp_kh.cdsproj",
+        "packagesPath": "C:\\Users\\mdevaney\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\PowerAppsToolsTemp_kh\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mdevaney\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {
+              "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\PCF.TinyMCE.pcfproj": {
+                "projectPath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\PCF.TinyMCE.pcfproj"
+              }
+            }
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Microsoft.PowerApps.MSBuild.Solution": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    },
+    "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\PCF.TinyMCE.pcfproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\PCF.TinyMCE.pcfproj",
+        "projectName": "PCF.TinyMCE",
+        "projectPath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\PCF.TinyMCE.pcfproj",
+        "packagesPath": "C:\\Users\\mdevaney\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\mdevaney\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net462"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net462": {
+            "targetAlias": "net462",
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net462": {
+          "targetAlias": "net462",
+          "dependencies": {
+            "Microsoft.PowerApps.MSBuild.Pcf": {
+              "target": "Package",
+              "version": "[1.*, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}

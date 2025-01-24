@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "7NA9JmXusJY=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mdevaney\\OneDrive\\PCFPlayground\\tinymce-basics-mo\\obj\\PowerAppsToolsTemp_kh\\PowerAppsToolsTemp_kh.cdsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mdevaney\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\mdevaney\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net462\\1.0.0\\microsoft.netframework.referenceassemblies.net462.1.0.0.nupkg.sha512",
+    "C:\\Users\\mdevaney\\.nuget\\packages\\microsoft.powerapps.msbuild.pcf\\1.38.3\\microsoft.powerapps.msbuild.pcf.1.38.3.nupkg.sha512",
+    "C:\\Users\\mdevaney\\.nuget\\packages\\microsoft.powerapps.msbuild.solution\\1.38.3\\microsoft.powerapps.msbuild.solution.1.38.3.nupkg.sha512"
+  ],
+  "logs": []
+}
